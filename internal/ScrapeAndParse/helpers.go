@@ -1,8 +1,8 @@
 package ScrapeAndParse
 
 import (
-	"GoogleScrape/pkg/googleDomais"
-	"GoogleScrape/pkg/userAgents"
+	"GoogleScraper/pkg/googleDomais"
+	"GoogleScraper/pkg/userAgents"
 	"fmt"
 	"math/rand"
 	"net/http"
